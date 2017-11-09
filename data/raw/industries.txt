@@ -1,0 +1,202 @@
+Index	Industry
+0	NaN
+1	research and development
+2	Information Technology and Services
+3	research and development
+4	Information Technology and Services
+5	Information Technology and Services
+6	analytics
+7	e-commerce
+8	consultancy
+9	research and development
+10	consultancy
+11	retailer
+12	financial services
+13	consultancy
+14	consultancy
+15	retailer
+16	financial services
+17	financial services
+18	Information Technology and Services
+19	analytics
+20	financial services
+21	Information Technology and Services
+22	financial services
+23	financial services
+24	retailer
+25	research and development
+26	research and development
+27	financial services
+28	Information Technology and Services
+29	retailer
+30	Information Technology and Services
+31	Information Technology and Services
+32	retailer
+33	analytics
+34	Information Technology and Services
+35	consultancy
+36	Information Technology and Services
+37	Information Technology and Services
+38	consultancy
+39	analytics
+40	financial services
+41	Information Technology and Services
+42	analytics
+43	research and development
+44	Information Technology and Services
+45	financial services
+46	Information Technology and Services
+47	analytics
+48	Information Technology and Services
+49	Information Technology and Services
+50	analytics
+51	Information Technology and Services
+52	e-commerce
+53	consultancy
+54	retailer
+55	financial services
+56	analytics
+57	consultancy
+58	consultancy
+59	consultancy
+60	consultancy
+61	Information Technology and Services
+62	Information Technology and Services
+63	e-commerce
+64	NaN
+65	e-commerce
+66	retailer
+67	Information Technology and Services
+68	NaN
+69	retailer
+70	NaN
+71	Information Technology and Services
+72	Information Technology and Services
+73	Information Technology and Services
+74	e-commerce
+75	e-commerce
+76	research and development
+77	Information Technology and Services
+78	NaN
+79	Information Technology and Services
+80	analytics
+81	NaN
+82	financial services
+83	Information Technology and Services
+84	research and development
+85	Information Technology and Services
+86	e-commerce
+87	consultancy
+88	consultancy
+89	financial services
+90	e-commerce
+91	financial services
+92	Information Technology and Services
+93	consultancy
+94	research and development
+95	research and development
+96	financial services
+97	research and development
+98	Information Technology and Services
+99	research and development
+100	consultancy
+101	Information Technology and Services
+102	Information Technology and Services
+103	Information Technology and Services
+104	analytics
+105	consultancy
+106	financial services
+107	research and development
+108	e-commerce
+109	consultancy
+110	Information Technology and Services
+111	research and development
+112	Information Technology and Services
+113	analytics
+114	consultancy
+115	analytics
+116	Information Technology and Services
+117	analytics
+118	analytics
+119	Information Technology and Services
+120	Information Technology and Services
+121 retailer
+122	e-commerce
+123	retailer
+124	consultancy
+125	consultancy
+126	retailer
+127	consultancy
+128	NaN
+129 NaN
+130	analytics
+131	analytics
+132	analytics
+133	Information Technology and Services
+134	Information Technology and Services
+135	financial services
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
